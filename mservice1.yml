@@ -1,5 +1,5 @@
 my:
-  greeting: "hello world from git: mservie1"
+  greeting: "updated: hello world from git: mservie1"
 
 db:
   connection: "https://gitlocaldb:8080"
