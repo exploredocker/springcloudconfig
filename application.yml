@@ -1,0 +1,13 @@
+my:
+  greeting: "hello world"
+
+server:
+  port: 8081
+
+db:
+  connection: "https://localdb:8080"
+  username: "vish"
+  userid: "123"
+  
+
+spring.profiles.active: test
