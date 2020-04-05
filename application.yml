@@ -1,13 +1,10 @@
 my:
   greeting: "hello world from git"
 
-server:
-  port: 8081
-
 db:
-  connection: "https://localdb:8080"
-  username: "vish"
-  userid: "123"
+  connection: "https://gitlocaldb:8080"
+  username: "vishgit"
+  userid: "123git"
   
 
-spring.profiles.active: test
+
