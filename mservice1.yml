@@ -1,0 +1,7 @@
+my:
+  greeting: "hello world from git: mservie1"
+
+db:
+  connection: "https://gitlocaldb:8080"
+  username: "newusermservice"
+  userid: "4478"
