@@ -1,5 +1,5 @@
 my:
-  greeting: "hello world"
+  greeting: "hello world from git"
 
 server:
   port: 8081
